@@ -1,4 +1,4 @@
-const API_KEY = 'AIzaSyCOc-Nd9Z0mI_0f4FDM_bY0SDHrDhxYyVw';
+const API_KEY = 'Your_Key';
 const SEARCH_URL = 'https://www.googleapis.com/youtube/v3/search?';
 var request = new XMLHttpRequest();
 var searchResults;
