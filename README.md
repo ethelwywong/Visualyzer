@@ -7,7 +7,7 @@ App that utilizes the p5.js JavaScript library and the YouTube Data API (v3) to 
 2. [Illustration](#Illustration)
 3. [Sources](#Sources)
 
-### Features
+## Features
 * Search and view videos using the YouTube Data API (v3)
 * Frequency and amplitude analysis of audio
 	* Requires browser microphone access
@@ -19,15 +19,15 @@ App that utilizes the p5.js JavaScript library and the YouTube Data API (v3) to 
 - [ ] Display and play through playlists
 - [ ] Fix channel listing error
 
-#### Technologies
+### Technologies
 Project is created with:
 - Node.js 10.16.3
 - HTML 5
 - CSS
 - jQuery 3.4.1
 
-### Illustration
-![](http://g.recordit.co/7jkgQ9KMsA.gif)
+## Illustration
+![](https://github.com/ethelwywong/Visualyzer/blob/master/7jkgQ9KMsA.gif)
  
-### Sources
-This app is based on the [Microphone Input](https://www.youtube.com/watch?v=q2IDNkUws-A&t=344s) and [Sound Visualization](https://www.youtube.com/watch?v=2O3nm0Nvbi4) tutorials by The Coding Train, and the [YouTube App Tutorial](https://www.youtube.com/watch?v=9sWEecNUW-o&t=674s) by Richard Middleton
+## Sources
+This app is based on the [Microphone Input](https://www.youtube.com/watch?v=q2IDNkUws-A&t=344s) and [Sound Visualization](https://www.youtube.com/watch?v=2O3nm0Nvbi4) tutorials by The Coding Train, and the [YouTube App Tutorial](https://www.youtube.com/watch?v=9sWEecNUW-o&t=674s) by Richard Middleton.
