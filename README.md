@@ -30,5 +30,4 @@ Project is created with:
 ![](http://g.recordit.co/7jkgQ9KMsA.gif)
  
 ### Sources
-- 
-- 
+This app is based on the [Microphone Input](https://www.youtube.com/watch?v=q2IDNkUws-A&t=344s) and [Sound Visualization](https://www.youtube.com/watch?v=2O3nm0Nvbi4) tutorials by The Coding Train, and the [YouTube App Tutorial](https://www.youtube.com/watch?v=9sWEecNUW-o&t=674s) by Richard Middleton
