@@ -27,7 +27,7 @@ Project is created with:
 - jQuery 3.4.1
 
 ### Illustration
-![](https://recordit.co/7jkgQ9KMsA)
+![](https://github.com/ethelwywong/Visualyzer/blob/master/7jkgQ9KMsA.gif)
  
 ### Sources
 - 
