@@ -13,6 +13,7 @@ App that utilizes the p5.js JavaScript library and the YouTube Data API (v3) to 
 	* Requires browser microphone access
 * Split screen view of embedded YouTube player and rainbow visualizer
 * Lowest frequencies (starting from 1 Hz) are depicted from 270° (or in the red-orange sector) and in a counter clockwise direction
+![Frequency Graph](https://github.com/ethelwywong/Visualyzer/blob/master/visualyzerGraph.png)
 * As of now, Visualyzer works only on Mozilla Firefox
 
 
