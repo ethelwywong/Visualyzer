@@ -5,7 +5,8 @@ App that utilizes the p5.js JavaScript library and the YouTube Data API (v3) to 
 1. [Features](#Features)
 	* [Technologies](#Technologies)
 2. [Illustration](#Illustration)
-3. [Sources](#Sources)
+3. [Set-Up](#Set-Up)
+4. [Sources](#Sources)
 
 ## Features
 * Search and view videos using the YouTube Data API (v3)
@@ -30,6 +31,9 @@ Project is created with:
 
 ## Illustration
 ![](https://github.com/ethelwywong/Visualyzer/blob/master/7jkgQ9KMsA.gif)
+
+## Set-Up
+To set-up the application on your computer, follow the instructions on [creating your own API Keys](https://developers.google.com/youtube/registering_an_application#Create_API_Keys) and input the API key into video.js.
  
 ## Sources
 This app is based on the [Microphone Input](https://www.youtube.com/watch?v=q2IDNkUws-A&t=344s) and [Sound Visualization](https://www.youtube.com/watch?v=2O3nm0Nvbi4) tutorials by The Coding Train, and the [YouTube App Tutorial](https://www.youtube.com/watch?v=9sWEecNUW-o&t=674s) by Richard Middleton.
