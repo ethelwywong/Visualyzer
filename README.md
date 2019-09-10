@@ -9,8 +9,8 @@ App that utilizes the p5.js JavaScript library and the YouTube Data API (v3) to 
 4. [Sources](#Sources)
 
 ## Features
-* Search and view videos using the YouTube Data API (v3)
-* Frequency and amplitude analysis of audio using the FFT analyzer from the p5.js library
+* Search and view videos using the [YouTube Data API (v3)](https://developers.google.com/youtube/v3/)
+* Frequency and amplitude analysis of audio using the [FFT analyzer](https://p5js.org/reference/#/p5.FFT) from the [p5.js library](https://p5js.org/)
 	* Requires browser microphone access
 * Split screen view of embedded YouTube player and rainbow visualizer
 * Lowest frequencies (starting from 1 Hz) are depicted from 270° (or in the red-orange sector) and in a counter clockwise direction
